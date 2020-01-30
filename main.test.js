@@ -4,8 +4,20 @@ let z = 5;
 let name = 'Toddra'
 let greeting = 'HEY'
 
-function multiply() {
-  
+function multiply(num) {
+x = x * num;
+}
+function modYBy(num) {
+  y = y % num;
+}
+function opposite(num) {
+  z = 0 - num;
+}
+function makeFullName(lastName) {
+  name = name + ' ' + lastName;
+}
+function yellAt(name) {
+  greeting = greeting + ', ' + name +'!';
 }
 /*********************************************************************************************************************
 
