@@ -1,5 +1,12 @@
+let x = 3;
+let y = 10;
+let z = 5; 
+let name = 'Toddra'
+let greeting = 'HEY'
 
-
+function multiply() {
+  
+}
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
