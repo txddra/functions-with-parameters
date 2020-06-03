@@ -15,6 +15,10 @@ function modYBy(num){
 function opposite(num){
   z = 0 - num;
 }
+
+function makeFullName(string){
+name = name + ' ' + string;
+}
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
