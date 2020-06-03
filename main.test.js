@@ -1,8 +1,12 @@
 let x = 3;
 let y = 10;
 let z = 5; 
-let name = 'Toddra'
-let greeting = 'HEY'
+let name = 'Toddra';
+let greeting = 'HEY';
+
+function multiply(num){
+x = x * num;
+}
 
 
 /*********************************************************************************************************************
