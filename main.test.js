@@ -5,10 +5,12 @@ let name = 'Toddra';
 let greeting = 'HEY';
 
 function multiply(num){
-x = x * num;
+  x = x * num;
 }
 
-
+function modBy(num){
+  y = y % num;
+}
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
