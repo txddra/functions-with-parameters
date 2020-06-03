@@ -16,8 +16,12 @@ function opposite(num){
   z = 0 - num;
 }
 
-function makeFullName(string){
-name = name + ' ' + string;
+function makeFullName(str){
+  name = name + ' ' + str;
+}
+
+function yellAt(str){
+  greeting = greeting + ', ' + str + '!'
 }
 /*********************************************************************************************************************
 
