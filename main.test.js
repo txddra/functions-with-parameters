@@ -8,8 +8,12 @@ function multiply(num){
   x = x * num;
 }
 
-function modBy(num){
+function modYBy(num){
   y = y % num;
+}
+
+function opposite(num){
+  z = 0 - num;
 }
 /*********************************************************************************************************************
 
